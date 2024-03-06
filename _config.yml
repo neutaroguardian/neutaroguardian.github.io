@@ -14,9 +14,9 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Neutaro Guardian Validator # the main title
+title: NeutaroGuardian # the main title
 
-tagline: Neutaro Guardian Validator # it will display as the sub-title
+tagline: Securing the Neutaro Blockchain # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Neutaro Blockchain Validator Powering Timpi.io. A new ethical standard for Web3.

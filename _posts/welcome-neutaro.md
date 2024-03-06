@@ -1,9 +1,13 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: New Validator Online
+author: NeutaroGuardian
+date: 2024-03-05 12:00:00 +0800
+categories: [neutaro,validator,timpi]
+tags: [validator,neutaro,delegate]      # tag names should always be lowercase
 ---
 
+# Welcome
+>This is my first post announcing the NeutaroGuardian Validator is online with details in the [about page](https://neutaroguardian.github.io/about).
 
 > Validator: ***[Live Status](https://nms1.neutaro.tech/Neutaro/staking/neutarovaloper1usjfenq4kfjvtml4v845xlweeekdhpyn77ndz9){:target="_blank"}***
 {: .prompt-tip }

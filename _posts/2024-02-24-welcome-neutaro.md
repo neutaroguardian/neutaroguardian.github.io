@@ -1,6 +1,5 @@
 ---
 title: New Validator Online
-author: NeutaroGuardian
 date: 2024-02-24 12:00:00 +0800
 categories: [neutaro,validator,timpi]
 tags: [validator,neutaro,delegate]      # tag names should always be lowercase

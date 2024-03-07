@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/neutaroguardian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://neutaroguardian.github.io
+  * I am neutaroguardian (https://keybase.io/neutaroguardian) on keybase.
+  * I have a public key with fingerprint 3954 A329 A061 74EA 7499  7C1C 1EF6 4B76 14E4 A48B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010126825ed23dd5420c0ef61ff8e5dc428dafcf699f78be85b9cb7d91ce205fbd5b0a",
+      "fingerprint": "3954a329a06174ea74997c1c1ef64b7614e4a48b",
+      "host": "keybase.io",
+      "key_id": "1ef64b7614e4a48b",
+      "kid": "010126825ed23dd5420c0ef61ff8e5dc428dafcf699f78be85b9cb7d91ce205fbd5b0a",
+      "uid": "6313f0c0ad8cd49a70edadcdb7c46519",
+      "username": "neutaroguardian"
+    },
+    "service": {
+      "hostname": "neutaroguardian.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1709831685,
+  "expire_in": 157680000,
+  "prev": "587ea0b9cfd4031e76d8fc53a2ce44aa8b788e4b8655ad4cc5fb2409b3ef9574",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIsAnicrZJbSBRRGMd3M83MzdSsh6JioqISm8uZ26KkRVFZEkaRIiznNruDNrPO
+zK5aCD3YQ5YV2sWKggqkyAgisztWQmj5EihEGBSkREYRlNIFOmP15mPn5XDO+X+/
+7//9Ob2hlEBGMG9Cml+6+1h78Nmjq4kAff8tdR+HbNLAhfdx1XRyozWEul6k2iRc
+mOMFXhAVTZQpESVCZCDymKeGIhiGRmWCgagRaGBD0XVD1RDVZKRjpBJdwFTkZQMR
+GfGQy+cM04pSJ+6Ylsewki4DKIk65BVBBRSqQNdVLGCBoQFSFQFQAIGGWGHMdv0K
+Zg5BlxaYNrtjh8ikvSn0/9l3YhKnSIJkMAIkGiZAhypPCSSYIBUDRRZ0X+hSx4J7
+KFNbNOFBx44moENMaHGN+Rx7TJqY+vn6A00tLIiaXiyB/swYd2zPxnYNk8U8L+6G
+fYzXEPfr6iiK/CVGkGkRli2rSFLHNW2LCwtMiT3TbyGovK5JgqLJ+Rytj5sOjZi+
+QlYVjWfL70OTDClrKoU8C8EggJcEqipEM7AsQRFTACDUkKppFCBNkWVIAMYsIxHw
+OpKoocsq4PwZay2bCwNmE0YZ0jWjFvQSDuUaH/dUTQ8EMwJpqdP8PxfImDnn30/8
+MpYe6CrruFXdZkzL7aws3rFlU/qpZTDUdON8Z/W7NT3cp/vlm56Grld1FbeEWuqa
+DzSfGbjt7hp6vXB/eXHbk5HcvoNzV8fylvdfWZT94M7iwlnpX9cu2Hih/nBl2fbt
+o5fbSzKiZ2MTSzoLhQph6HlmUL73Y7Qm68PS8eE9ndey1h/t7t9Wcik7m2vfiwZe
+rprXPTh2Zjg9ZUlLcMatU2Vgc3vak9iJwSMf6brGDT2liZN33xjnF7yQ7gyMnxtp
+HWg93hT8tfvVhooVPwr7q5IrRzKLWsJZgYdFp7PtthWuB9ICtV9mb915szdndunP
+sdrK7rO1bR2hnFx+5OL8zL4Zdafffv+cPPQbt3VCrw==
+=p7uM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/neutaroguardian
+
+==================================================================

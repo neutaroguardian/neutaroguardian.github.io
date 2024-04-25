@@ -1,5 +1,5 @@
 ---
-title: Governance \#1 - Change Unbond Time
+title: Governance '#1 - Change Unbond Time
 date: 2024-02-27 12:00:00 +0800
 categories: [governance]
 tags: [governance,vote,proposal]      # tag names should always be lowercase

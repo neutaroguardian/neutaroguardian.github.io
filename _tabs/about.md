@@ -27,7 +27,7 @@ Excited to be supporting the future of decentralized data and search.
 This validator is hosted with full 24/7/365 availability, 1GB connectivity, and redundant power backup.
 
 ## Commitement to Governance Voting
-Those delegating **deserve transparency** for how their shares are voting. As a committed contributor to neutaro and Timpi, I will be participating in all governance voting.  I will post description of each proposal when announced, share my thoughts, and **explain how I'm casting the vote for the shares delegated**. 
+Those delegating **deserve transparency** for how their shares are voting. As a committed contributor to Neutaro and Timpi, I will be participating in all governance voting.  I will post description of each proposal when announced, share my thoughts, and **explain how I'm casting the vote for the shares delegated**. 
 
 ## Staking and Delegating on Neutaro
  $NTIMPI holders can contribute to the governance of Timpi, it’s future, and the security of the neutaro chain. For your contribution in the first 12 months since Feb '24, delegators will earn an **additional 17% APY** on top of their share of block rewards. ([promotion details](https://timpi.io/wp-content/uploads/2024/02/How-to-stake-to-a-Neutaro-Validator-v1.0.pdf))

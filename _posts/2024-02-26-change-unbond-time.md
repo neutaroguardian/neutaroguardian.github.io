@@ -25,3 +25,6 @@ The community would like to request decreasing the token unbond time from 90 day
 
 ### My Thoughts
 I can understand the default unbonding periord for chains would be set to a longer time (initially 90 days) as a point of stabilizing new coins. Decreasing the unbonding time could allow or encourage token holders to liquidate early, especially in the case of a new token that isn't widely distributed. 21 days or 3 weeks is still quite a long time. As a point to encourage more token distribution across wallets while the chain is recently distributed, this period seems fair and reasonable to holders and long enough to still manage stability of the token value.
+
+## Commitement to Governance Voting
+Those delegating **deserve transparency** for how their shares are voting. As a committed contributor to Neutaro and Timpi, I will be participating in all governance voting.  I will post description of each proposal when announced, share my thoughts, and **explain how I'm casting the vote for the shares delegated**. 

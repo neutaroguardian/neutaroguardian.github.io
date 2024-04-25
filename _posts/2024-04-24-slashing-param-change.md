@@ -36,3 +36,6 @@ Professional service availability targets four nines of uptime, or 99.99% yearly
 Moving the downtime window out to 3 days suggests we are permitting two nines of uptime or ~99% uptime yearly.  In this case though, we don't hold this downtime in aggregate for the year, it resets to 0 after 10,000 blocks.
 
 Considering these points, I believe it is fair and reasonable to allow additional downtime for validators to manage their host without putting undue risk to the chain.
+
+## Commitement to Governance Voting
+Those delegating **deserve transparency** for how their shares are voting. As a committed contributor to Neutaro and Timpi, I will be participating in all governance voting.  I will post description of each proposal when announced, share my thoughts, and **explain how I'm casting the vote for the shares delegated**. 

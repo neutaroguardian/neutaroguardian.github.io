@@ -1,5 +1,5 @@
 ---
-title: Governance #2 - Slashing Param Change
+title: Governance \#2 - Slashing Param Change
 date: 2024-04-25 12:00:00 +0800
 categories: [governance]
 tags: [governance,vote,proposal]      # tag names should always be lowercase

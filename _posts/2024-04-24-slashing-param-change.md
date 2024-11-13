@@ -7,7 +7,7 @@ tags: [governance,vote,proposal]      # tag names should always be lowercase
 
 # Proposal 2: Slashing Param Change
 
-> NeutaroGuardian Voted: [YES](https://nms1.neutaro.tech/Neutaro/tx/8ADC81620E73F53EFD4408FB1073F5F9269D10A277196C8A76DC5249E0A33F8A)
+> NeutaroGuardian Voted: [YES](https://explorer.neutaro.io/Neutaro/tx/8ADC81620E73F53EFD4408FB1073F5F9269D10A277196C8A76DC5249E0A33F8A)
 {: .prompt-tip }
 
 
@@ -20,7 +20,7 @@ The majority of validators are operating smoothly. Providing validators with add
 #### Arguments Against
 I did not hear argument against prior to my vote.
 
-[ Link to Governance Proposal 2: Slashing Param Change](https://nms1.neutaro.tech/Neutaro/gov/2)
+[ Link to Governance Proposal 2: Slashing Param Change](https://explorer.neutaro.io/Neutaro/gov/2)
 
 ### Timeline
 * Submited at: 2024-04-23 21:26

@@ -7,14 +7,14 @@ tags: [governance,vote,proposal]      # tag names should always be lowercase
 
 # Proposal 1: Change Unbond Time
 
-> NeutaroGuardian Voted: [YES](https://nms1.neutaro.tech/Neutaro/tx/0E347406466E91B55AE99D2F534BA485779D09DE827C56E62C638258A2D26EA4)
+> NeutaroGuardian Voted: [YES](https://explorer.neutaro.io/Neutaro/tx/0E347406466E91B55AE99D2F534BA485779D09DE827C56E62C638258A2D26EA4)
 {: .prompt-tip }
 
 
 ### Description
 The community would like to request decreasing the token unbond time from 90 days to 21 days. It is suggested this is a standard value for most chains.
 
-[ Link to Governance Proposal 1: Change Unbond Time](https://nms1.neutaro.tech/Neutaro/gov/1)
+[ Link to Governance Proposal 1: Change Unbond Time](https://explorer.neutaro.io/Neutaro/gov/1)
 
 ### Timeline
 * Submited at: 2024-02-21 16:05

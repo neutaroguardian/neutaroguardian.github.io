@@ -7,7 +7,7 @@ tags: [governance,vote,proposal]      # tag names should always be lowercase
 
 # Proposal 3: Upgrading the Neutaro Binary
 
-> NeutaroGuardian Voted: [YES](https://nms1.neutaro.tech/Neutaro/tx/DAF4E2665AA6AE8831BADEB543CE40C0C6BF9E3AF4182763332705CE8AACD161)
+> NeutaroGuardian Voted: [YES](https://explorer.neutaro.io/Neutaro/tx/DAF4E2665AA6AE8831BADEB543CE40C0C6BF9E3AF4182763332705CE8AACD161)
 {: .prompt-tip }
 
 
@@ -32,7 +32,7 @@ We have been testing the binary and haven't found anything that is of concern.
 #### Arguments Against
 I did not hear argument against prior to my vote.
 
-[ Link to Governance Proposal 3: Upgrading the Neutaro binary](https://nms1.neutaro.tech/Neutaro/gov/3)
+[ Link to Governance Proposal 3: Upgrading the Neutaro binary](https://explorer.neutaro.io/Neutaro/gov/3)
 
 ### Timeline
 * Submited at: 2024-05-06 18:06

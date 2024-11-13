@@ -7,7 +7,7 @@ tags: [governance,vote,proposal]      # tag names should always be lowercase
 
 # Proposal 4: Re-enable the Neutaro-Osmo IBC Client
 
-> NeutaroGuardian Voted: [YES](https://nms1.neutaro.tech/Neutaro/tx/26CF2FC115EC99F50B0B25E28D87BAB5F7A206989104FEE7EF03EA4FE15C9E99)
+> NeutaroGuardian Voted: [YES](https://explorer.neutaro.io/Neutaro/tx/26CF2FC115EC99F50B0B25E28D87BAB5F7A206989104FEE7EF03EA4FE15C9E99)
 {: .prompt-tip }
 
 
@@ -22,7 +22,7 @@ With Osmo being one of the key chains within the IBC ecosystem, it is crucial th
 #### Arguments Against
 I did not hear argument against prior to my vote.
 
-[ Link to Governance Proposal 4: Re-enable the Neutaro<>Osmosis IBC-Client](https://nms1.neutaro.tech/Neutaro/gov/4)
+[ Link to Governance Proposal 4: Re-enable the Neutaro<>Osmosis IBC-Client](https://explorer.neutaro.io/Neutaro/gov/4)
 
 ### Timeline
 * Submited at: 2024-08-18 19:09
